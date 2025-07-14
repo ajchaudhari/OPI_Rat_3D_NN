@@ -1,5 +1,5 @@
 # **OPI_Rat_3D_NN**
-Repository of manuscript ["Three-dimensional U-Net with transfer learning improves automated whole brain delineation from MRI brain scans of rats, mice, and monkeys"] (https://www.sciencedirect.com/science/article/pii/S0010482525009205)  by Valerie Porter, Brad Hobson, Alita D'Almeida, Karen Bales, Pamela Lein, and Abhijit Chaudhari
+Repository of manuscript ["Three-dimensional U-Net with transfer learning improves automated whole brain delineation from MRI brain scans of rats, mice, and monkeys"](https://www.sciencedirect.com/science/article/pii/S0010482525009205)  by Valerie Porter, Brad Hobson, Alita D'Almeida, Karen Bales, Pamela Lein, and Abhijit Chaudhari
 
 # **OPI Rat Neural Network**
 ## Required Programs:
